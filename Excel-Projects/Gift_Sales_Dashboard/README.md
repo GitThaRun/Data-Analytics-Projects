@@ -60,3 +60,75 @@ The dataset contains gift sales transaction data including:
 - During which hours does revenue peak?
 
 ---
+
+## Main Dashboard
+
+![Main Dashboard](Screenshots/Main_Dashboard.png)
+
+**Insight:** The dashboard provides a consolidated view of sales performance, product demand, regional contribution, and customer purchasing patterns.
+
+## KPI Overview
+
+![KPI Overview](Screenshots/KPI_overview.png)
+
+**Insight:** The business recorded 1,000 orders generating ₹35.2L in revenue, with an average order value of ₹3.5K across 70 products.
+
+## Sales Trend Analysis
+
+![Sales Trend Analysis](Screenshots/Sales_Trend.png)
+
+**Insight:** Sales revenue experienced noticeable peaks during select months, indicating strong seasonal demand and gift-buying trends.
+
+## Category & Product Analysis
+
+![Category & Product Analysis](Screenshots/Category-product-analysis.png)
+
+**Insight:** Colors, Soft Toys, and Sweets generated the highest category revenue, while a few top-performing products contributed significantly to overall sales.
+
+## City & Occasion Analysis
+
+![City & Occasion Analysis](Screenshots/City-occasion-analysis.png)
+
+**Insight:** Revenue was concentrated in a handful of high-performing cities, with Anniversary and Raksha Bandhan emerging as the strongest sales-driving occasions.
+
+## Hourly Revenue Analysis
+
+![Hourly Revenue Analysis](Screenshots/Hourly_Revenue_Analysis.png)
+
+**Insight:** Customer purchases were more frequent during afternoon and evening hours, resulting in higher revenue generation later in the day.
+
+# Dashboard Features
+
+- Interactive filtering with slicers
+- KPI-based reporting
+- Category and product analysis
+- City-wise sales tracking
+- Occasion-based revenue analysis
+- Hourly sales monitoring
+- Trend visualization
+
+---
+
+# Skills Demonstrated
+
+- Data Cleaning
+- Dashboard Design
+- KPI Development
+- Sales Analysis
+- Business Reporting
+- Data Visualization
+- Interactive Reporting
+- Data Storytelling
+
+---
+
+# Learning Outcomes
+
+Through this project, I practiced:
+
+- Building executive-style dashboards
+- Designing KPI-driven reports
+- Performing sales analysis
+- Visualizing business performance
+- Creating interactive Excel dashboards
+- Presenting actionable business insights
