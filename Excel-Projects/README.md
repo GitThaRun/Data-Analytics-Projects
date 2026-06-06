@@ -25,7 +25,8 @@ Projects in this section are designed to strengthen real-world Excel analytics s
 - Interactive Dashboards
 - Excel Formulas
 - Business Reporting
-
+- Power Query
+- Power Pivot
 ---
 
 # Purpose
