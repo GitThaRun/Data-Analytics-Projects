@@ -49,6 +49,7 @@ Excel-Projects/
 ├── Call_Center_Performance_Dashboard/
 ├── E-commerce_Sales_And_Customer_Analysis_Dashboard/
 ├── Gift_Sales_Dashboard/
+├── Global_Superstore_Retail_Analytics_Dashboard/
 ```
 
 ---
