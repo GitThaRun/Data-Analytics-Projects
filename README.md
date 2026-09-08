@@ -1,30 +1,71 @@
-# Data Analysis Portfolio
+# Data Analytics Projects Portfolio
 
-Welcome to my Data Analytics project repository.
+This repository serves as a centralized portfolio for my data analysis learning journey and hands-on projects.
 
-This repository contains Excel-based data analysis projects focused on:
+The purpose of this repository is to document my progression from foundational data analysis concepts to more advanced analytics and business intelligence workflows.
+
+The projects included in this repository focus on developing practical skills in:
 - Data Cleaning
-- Pivot Tables
-- Dashboards
-- KPI Reporting
-- Business Insights
-- Visualization
+- Data Analysis
+- Dashboard Development
+- Data Visualization
+- Business Problem Solving
+- Reporting & Insights Generation
 
-## Tools Used
+---
+
+# Repository Structure
+
+```text
+Data-Analysis-Projects/
+│
+├── Excel-Projects/
+├── SQL-Projects/
+├── PowerBI-Projects/
+└── Python-Projects/
+```
+
+Each section contains projects organized by technology and analytical focus.
+
+---
+
+# Learning Focus
+
+This repository is being built to strengthen practical experience in:
+- Spreadsheet-based analysis
+- Querying and transforming data
+- Interactive dashboard creation
+- Exploratory data analysis
+- KPI reporting
+- Business-oriented analytics
+
+---
+
+# Tools & Technologies
 
 - Microsoft Excel
-- Power Query
-- Pivot Tables
-- Power Pivot
-- Charts & Dashboards
+- SQL
+- Power BI
+- Python
+- Git & GitHub
 
-## Projects
+---
 
-| Project | Skills | Status |
-|---|---|---|
+# Objective
 
-## Goals
+The long-term goal of this portfolio is to build strong analytical thinking and create real-world projects that simulate business reporting and decision-making scenarios.
 
-- Build real-world business analysis projects
-- Develop analyst-level reporting skills
-- Create a professional portfolio for internships and jobs
+The repository will continue evolving with:
+- More complex datasets
+- Advanced dashboards
+- Automation workflows
+- SQL-based analysis
+- Power BI reports
+- Python data projects
+
+---
+
+# Connect With Me
+
+- GitHub: https://github.com/GitThaRun
+- LinkedIn : www.linkedin.com/in/jami-tharun
